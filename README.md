@@ -40,9 +40,9 @@ git clone https://github.com/seuuser/primewash-fullstack.git
 
 ## Backend
 bash
-npm install
-npx prisma generate
-npm run dev
+1. npm install
+2. npx prisma generate
+3. npm run dev
 
 ### Configure o .env no backend com URL do MongoDB
 
